@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bigchaindb-driver": "^4.2.2"
+    "bigchaindb-driver": "^4.2.2",
+    "bip39": "^3.0.4"
   }
 }
